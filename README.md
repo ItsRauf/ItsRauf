@@ -17,7 +17,7 @@
 ## ✈️ Other Places You Can Find Me
 [<img src="https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d4.png" alt="Twitter" width="48">](https://twitter.com/itsrauf_)
 [<img src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" alt="dev.to" width="48">](https://dev.to/itsrauf)
-[<img src="https://rauf.wtf/me.jpg" alt="rauf.wtf" width="48">](https://rauf.wtf)
+[<img src="https://rauf.wtf/favicon.ico" alt="rauf.wtf" width="48">](https://rauf.wtf)
 
 <!--
 **ItsRauf/ItsRauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
