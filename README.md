@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Rauf, I love to make random things and learn new things. I currently specialize in Discord Bots and Frontend development!
+### I'm Rose, I love to make random things and learn new things. I currently specialize in Discord Bots and Frontend development!
 
 ![ItsRauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsRauf&show_icons=true&theme=github_dark)
 
