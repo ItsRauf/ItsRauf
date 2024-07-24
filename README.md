@@ -2,7 +2,7 @@
 
 ### I'm Rose, I love to make random things and learn new things. I currently specialize in Discord Bots and Frontend development!
 
-![ItsRauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsRauf&show_icons=true&theme=github_dark)
+![ItsRauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsRauf&show_icons=true&theme=github_dark&no-cache=1)
 
 ## 🌐 Languages
 ![](https://skillicons.dev/icons?i=ts,react,vue,astro,html,css)
